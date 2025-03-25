@@ -1,0 +1,12 @@
+[submodule "SDL3"]
+	path = SDL3
+	url = https://github.com/IkelosVoidz/SDL3-premake.git
+[submodule "SDL-TTF"]
+	path = SDL-TTF
+	url = https://github.com/IkelosVoidz/SDL_ttf-premake.git
+[submodule "SDL-MIXER"]
+	path = SDL-MIXER
+	url = https://github.com/IkelosVoidz/SDL_mixer-premake.git
+[submodule "SDL-IMG"]
+	path = SDL-IMG
+	url = https://github.com/IkelosVoidz/SDL_image-premake.git
